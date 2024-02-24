@@ -16,3 +16,5 @@ $ npm install
 ```bash
 $ node index
 ```
+
+if 5 stars and i rewriting v26 to js
